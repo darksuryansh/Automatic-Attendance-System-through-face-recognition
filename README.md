@@ -1,3 +1,3 @@
 
-# Attendance-Traking-System-through-face-recognition
-Traking the attendance through face recognition 
+# Automatic-Attendance-System-through-face-recognition
+Automatic attendance through face recognition 
