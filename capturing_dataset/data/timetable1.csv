@@ -1,0 +1,8 @@
+day,start_time,end_time,subject,expected_students
+Monday,09:00,11:00,Mathematics,Alice;Bob;Charlie
+Monday,11:00,13:00,Physics,Alice;David;Eve
+Friday,09:00,11:00,Chemistry,Bob;Charlie;David
+Friday,19:00,20:00,Biology,Eve;Alice;Bob;suryansh
+Wednesday,09:00,11:00,Mathematics,Alice;Bob;Charlie;suryansh
+Wednesday,21:00,22:00,DIP,Bob;Charlie;David;suryansh
+Wednesday,21:00,23:00,Network,Alice;David;Eve;suryansh

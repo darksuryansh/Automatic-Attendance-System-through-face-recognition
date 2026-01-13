@@ -1,0 +1,4 @@
+class_name,day,start_time,end_time,students
+"Mathematics 101","Monday","09:00:00","10:30:00","['John Doe', 'Jane Smith', 'Robert Johnson']"
+"Physics 201","Monday","11:00:00","12:30:00","['Jane Smith', 'Alice Brown', 'Michael Lee']"
+"Computer Science 301","Thursday","20:00:00","23:50:00","['John Doe', 'Michael Lee', 'suryansh']"

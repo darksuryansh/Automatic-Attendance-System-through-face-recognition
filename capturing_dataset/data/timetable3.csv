@@ -1,0 +1,6 @@
+class,subject,day,time
+Class A,Mathematics,Monday,09:00-10:30
+Class A,Physics,Monday,10:30-12:00
+Class B,Chemistry,Tuesday,13:00-14:30
+Class B,Biology,Wednesday,09:00-10:30
+CS-101,Python Programming,Wednesday,21:00-23:30  
